@@ -18,9 +18,9 @@
 
 ### Instalação
 
-git clone https://github.com/matheusmartins10/desafio-boa-vista
-yarn install
-yarn start
+- git clone https://github.com/matheusmartins10/desafio-boa-vista
+- yarn install
+- yarn start
 
 `Made with ❤ by Matheus Martins © 2020`
 
