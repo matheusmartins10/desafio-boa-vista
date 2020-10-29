@@ -12,7 +12,7 @@ function Kba() {
 
 	const questions = [
 		{
-			questionText: 'Qual desses é o seu ceps?',
+			questionText: 'Qual desses é o seu cep?',
 			answerOptions: [
 				{ answerText: '03300-213', isCorrect: false },
 				{ answerText: '03300-000', isCorrect: false },

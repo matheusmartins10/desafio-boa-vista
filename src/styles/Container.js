@@ -12,6 +12,7 @@ export const Container = styled.form`
     label {
        font-size: 32px;
        font-weight: bold;
+       text-align: center;
    }
 
    input {
